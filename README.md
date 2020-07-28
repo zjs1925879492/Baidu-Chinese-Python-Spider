@@ -1,6 +1,7 @@
-Baidu-Chinese-Python-Spider
+*Baidu-Chinese-Python-Spider*
 
-百度汉语爬虫\n
+**百度汉语爬虫**
+
  - 主要功能：
  1.爬取古诗
  2.爬取作者及朝代
