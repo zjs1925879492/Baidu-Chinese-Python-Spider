@@ -98,8 +98,8 @@ def idioms():
     return basic_mean()+detail_mean()+source()+eg()+syn_antonym()+allusion()
 
 if choice==1:
-    print(poems())
+    print(poems()+'\n')
 if choice==2:
-    print(idioms())
+    print(idioms()+'\n')
 
-
+input('回车退出')
